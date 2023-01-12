@@ -1,9 +1,6 @@
 ## Olá! Meu nome é João Antônio e sou estudante de tecnologia autodidata.
-<div align="center">
-  <a href="https://github.com/juaoantonio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juaoantonio&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juaoantonio&layout=compact&langs_count=7&theme=monokai"/>
-</div>
+[![João Stats](https://github-readme-stats.vercel.app/api?username=juaoantonio)](https://github.com/juaoantonio/github-readme-stats)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
