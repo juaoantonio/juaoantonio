@@ -1,7 +1,5 @@
-### Hello World 👋 Meu nome é João Antônio Barbosa!
-<a href="https://joaobarbosa.dev.br">Meu site!</a>
-<br/>
-
+# Hello World 👋 Meu nome é João Antônio Barbosa!
+## <a href="https://joaobarbosa.dev.br">Meu site!</a>
 
 <a href="https://twitter.com/sakigo_09">
 <img align="left" alt="João Antônio | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
