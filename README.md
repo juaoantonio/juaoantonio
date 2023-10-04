@@ -13,7 +13,7 @@
 
 <br />
 
-Sou Desenvolvedor Full Stack e trabalho com Django e ReactJS e sou estudante da faculdade de Ciência da Computação na UFPa (Universidade Federal do Pará). 
+Sou Desenvolvedor Full Stack e atualmente trabalho com Frontend e UI/UX Design. Sou estudante da faculdade de Ciência da Computação na UFPa (Universidade Federal do Pará). 
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
