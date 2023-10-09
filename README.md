@@ -1,6 +1,6 @@
 # Hello World 👋 Meu nome é João Antônio Barbosa!
 ## <a href="https://joaobarbosa.dev.br">Meu site!</a>
-<a href="https://app.bounties4.com/@/juaoantonio" target="_blank"><img title="bounties4.com/@/juaoantonio" alt="bounties4.com/@/juaoantonio" src="https://storage.googleapis.com/profile_avatar/production/108894148824196988172/1696476467885_badge.png" width="400" height="400" />Me contrate como Freelancer!</a>
+<a href="https://app.bounties4.com/@/juaoantonio" target="_blank"><img title="bounties4.com/@/juaoantonio" alt="bounties4.com/@/juaoantonio" src="https://storage.googleapis.com/profile_avatar/production/108894148824196988172/1696476467885_badge.png" width="400" height="400" /></a>
 
 <a href="https://twitter.com/sakigo_09">
 <img align="left" alt="João Antônio | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
