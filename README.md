@@ -11,7 +11,7 @@
 
 <br />
 
-Sou Desenvolvedor Full Stack e atualmente trabalho com Frontend e UI/UX Design. Sou estudante da faculdade de Ciência da Computação na UFPa (Universidade Federal do Pará). 
+Sou Desenvolvedor Full Stack e atualmente trabalho com Frontend. Sou estudante da faculdade de Ciência da Computação na UFPa (Universidade Federal do Pará). 
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
@@ -19,9 +19,9 @@ Sou Desenvolvedor Full Stack e atualmente trabalho com Frontend e UI/UX Design. 
 
 **Sobre Mim:**
 
-Atualmente sou designer/desenvolvedor na Brainstorm Engenheria Jr..
-Sou CTO de um pequeno negócio próprio.
-Conhecimentos em infra e backend, mas minha especialidade é frontend
+Atualmente sou desenvolvedor na Encibra S/A - Estudos e Projetos em Engenharia.
+Sou dono de um pequeno negócio próprio - Opticode IT Solutions.
+Conhecimentos em infra e frontend, mas atualmente foco em backend com Java.
 
 **Algumas linguagens e ferramentas que tenho familiaridade:**
 
