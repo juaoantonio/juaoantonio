@@ -1,37 +1,21 @@
 # Hello World 👋 Meu nome é João Antônio Barbosa!
 ## <a href="https://personal-page-delta-eight.vercel.app">Meu site!</a>
 
-<a href="https://twitter.com/sakigo_09">
+<a href="https://www.linkedin.com/in/juaoantonio/" target="_blank">
 <img align="left" alt="João Antônio | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/juaomarajo/">
-<img align="left" alt="João Antônio | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt="João Antônio | Instagram" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
-
-<br />
-
-Sou Desenvolvedor Full Stack e atualmente trabalho com Frontend. Sou estudante da faculdade de Ciência da Computação na UFPa (Universidade Federal do Pará). 
-
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
 
 **Sobre Mim:**
 
-Atualmente sou desenvolvedor na Encibra S/A - Estudos e Projetos em Engenharia.
-Sou dono de um pequeno negócio próprio - Opticode IT Solutions.
-Conhecimentos em infra e frontend, mas atualmente foco em backend com Java.
+Desenvolvedor Backend especializado na criação de APIs robustas e escaláveis com NestJS e Spring, tenho uma sólida experiência em otimização de bancos de dados MySQL e Postgres. Além disso, sou familiar com ferramentas de infraestrutura, como Docker, AWS (S3, Lightsail, API Gateway), garantindo ambientes de desenvolvimento e produção eficientes e seguros.
 
-**Algumas linguagens e ferramentas que tenho familiaridade:**
+Atuo com práticas modernas como Domain-Driven Design (DDD) e Clean Architecture, com foco na criação de soluções orientadas ao negócio e que facilitem a manutenção e evolução dos sistemas. Apesar de minha especialização ser backend, tenho experiência em frontend com JavaScript e TypeScript, o que me permite entregar soluções fullstack quando necessário.
 
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png"></code>
-<code><img height="20" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+Atualmente, curso Ciência da Computação na UFPA e estou sempre em busca de novas oportunidades!
