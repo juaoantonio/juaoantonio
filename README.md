@@ -4,13 +4,8 @@
 <a href="https://www.linkedin.com/in/juaoantonio/" target="_blank">
 <img align="left" alt="João Antônio | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/juaomarajo/">
-<img align="left" alt="João Antônio | Instagram" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 <br />
-
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
-
 
 **Sobre Mim:**
 
